@@ -1,0 +1,127 @@
+[11:26:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:26:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:26:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:26:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:26:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:26:50] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[11:26:50] [Server thread/INFO]: Loading properties
+[11:26:50] [Server thread/INFO]: Default game type: SURVIVAL
+[11:26:50] [Server thread/INFO]: Generating keypair
+[11:26:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:26:51] [Server thread/INFO]: Using epoll channel type
+[11:26:51] [Server thread/INFO]: Preparing level "World03"
+[11:26:51] [Server thread/INFO]: Reloading ResourceManager: Default, anti enderman grief v1.0.0.zip, coordinates hud v1.1.0.zip, customizable armor stands v2.4.0.zip, double shulker shells v1.0.3.zip, dragon drops elytra v1.0.2.zip, larger phantoms v1.0.0.zip, more mob heads v2.1.0.zip, multiplayer sleep v1.0.1.zip, nether portal coords v1.0.0.zip, player graves v1.5.0.zip, sethome v1.2.0.zip, silence mobs v1.0.0.zip, tag v2.0.0.zip
+[11:26:52] [Server thread/INFO]: Loaded 6 recipes
+[11:26:52] [Server thread/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[11:26:53] [Server thread/INFO]: Loaded 97 custom command functions
+[11:26:53] [Server thread/INFO]: Loaded 827 advancements
+[11:26:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:26:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:26:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:26:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:26:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:26:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:26:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:26:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:26:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:26:58] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:27:05] [Server thread/INFO]: Preparing spawn area: 22%
+[11:27:05] [Server thread/WARN]: Wrong location! (-32, 16) should be (-15, 1), ats['Oak Sapling'/13, l='World03', x=-511.18, y=365.00, z=256.83]
+[11:27:05] [Server thread/INFO]: Time elapsed: 10939 ms
+[11:27:05] [Server thread/INFO]: Done (14.321s)! For help, type "help"
+[11:37:29] [Server thread/INFO]: /advancement (grant|revoke)
+[11:37:29] [Server thread/INFO]: /ban <targets> [<reason>]
+[11:37:29] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[11:37:29] [Server thread/INFO]: /banlist [ips|players]
+[11:37:29] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[11:37:29] [Server thread/INFO]: /clear [<targets>]
+[11:37:29] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[11:37:29] [Server thread/INFO]: /data (get|merge|modify|remove)
+[11:37:29] [Server thread/INFO]: /datapack (disable|enable|list)
+[11:37:29] [Server thread/INFO]: /debug (start|stop)
+[11:37:29] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[11:37:29] [Server thread/INFO]: /deop <targets>
+[11:37:29] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[11:37:29] [Server thread/INFO]: /effect (clear|give)
+[11:37:29] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[11:37:29] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[11:37:29] [Server thread/INFO]: /experience (add|query|set)
+[11:37:29] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[11:37:29] [Server thread/INFO]: /forceload (add|query|remove)
+[11:37:29] [Server thread/INFO]: /function <name>
+[11:37:29] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[11:37:29] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[11:37:29] [Server thread/INFO]: /give <targets> <item> [<count>]
+[11:37:29] [Server thread/INFO]: /help [<command>]
+[11:37:29] [Server thread/INFO]: /kick <targets> [<reason>]
+[11:37:29] [Server thread/INFO]: /kill <targets>
+[11:37:29] [Server thread/INFO]: /list [uuids]
+[11:37:29] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[11:37:29] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[11:37:29] [Server thread/INFO]: /me <action>
+[11:37:29] [Server thread/INFO]: /msg <targets> <message>
+[11:37:29] [Server thread/INFO]: /op <targets>
+[11:37:29] [Server thread/INFO]: /pardon <targets>
+[11:37:29] [Server thread/INFO]: /pardon-ip <target>
+[11:37:29] [Server thread/INFO]: /particle <name> [<pos>]
+[11:37:29] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[11:37:29] [Server thread/INFO]: /recipe (give|take)
+[11:37:29] [Server thread/INFO]: /reload
+[11:37:29] [Server thread/INFO]: /replaceitem (block|entity)
+[11:37:29] [Server thread/INFO]: /save-all [flush]
+[11:37:29] [Server thread/INFO]: /save-off
+[11:37:29] [Server thread/INFO]: /save-on
+[11:37:29] [Server thread/INFO]: /say <message>
+[11:37:29] [Server thread/INFO]: /schedule function <function> <time>
+[11:37:29] [Server thread/INFO]: /scoreboard (objectives|players)
+[11:37:29] [Server thread/INFO]: /seed
+[11:37:29] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[11:37:29] [Server thread/INFO]: /setidletimeout <minutes>
+[11:37:29] [Server thread/INFO]: /setworldspawn [<pos>]
+[11:37:29] [Server thread/INFO]: /spawnpoint [<targets>]
+[11:37:29] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[11:37:29] [Server thread/INFO]: /stop
+[11:37:29] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[11:37:29] [Server thread/INFO]: /summon <entity> [<pos>]
+[11:37:29] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[11:37:29] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[11:37:29] [Server thread/INFO]: /teammsg <message>
+[11:37:29] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[11:37:29] [Server thread/INFO]: /tell -> msg
+[11:37:29] [Server thread/INFO]: /tellraw <targets> <message>
+[11:37:29] [Server thread/INFO]: /time (add|query|set)
+[11:37:29] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[11:37:29] [Server thread/INFO]: /tm -> teammsg
+[11:37:29] [Server thread/INFO]: /tp -> teleport
+[11:37:29] [Server thread/INFO]: /trigger <objective> [add|set]
+[11:37:29] [Server thread/INFO]: /w -> msg
+[11:37:29] [Server thread/INFO]: /weather (clear|rain|thunder)
+[11:37:29] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[11:37:29] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[11:37:29] [Server thread/INFO]: /xp -> experience
+[13:49:48] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_212]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_212]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_212]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_212]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_212]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_212]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_212]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_212]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_212]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_212]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_212]
+	at ui$2.run(SourceFile:109) [minecraft_server.1.14.3.jar:?]

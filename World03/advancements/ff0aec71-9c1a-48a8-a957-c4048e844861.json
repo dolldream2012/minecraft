@@ -1,0 +1,145 @@
+{
+  "main:main/dragon_drops_elytra": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-07-04 10:58:24 +0900"
+    },
+    "done": true
+  },
+  "main:main/sh": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-07-04 10:58:24 +0900"
+    },
+    "done": true
+  },
+  "main:main/larger_phantoms": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "main:main/anti_enderman": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "main:main/silence_mobs": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": false
+  },
+  "main:main/as_statue": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-07-04 10:58:24 +0900"
+    },
+    "done": true
+  },
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-07-04 10:58:24 +0900"
+    },
+    "done": true
+  },
+  "main:main/player_graves": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "main:main/tag": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "main:main/ch": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2019-07-04 11:00:06 +0900"
+    },
+    "done": true
+  },
+  "main:main/nether_portal_coords": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-07-04 10:58:24 +0900"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2019-07-04 02:19:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-07-04 10:58:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-07-04 02:23:29 +0900",
+      "minecraft:beach": "2019-07-04 02:19:34 +0900",
+      "minecraft:dark_forest": "2019-07-04 10:58:41 +0900",
+      "minecraft:river": "2019-07-04 10:58:26 +0900",
+      "minecraft:plains": "2019-07-04 01:18:12 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 1968
+}
