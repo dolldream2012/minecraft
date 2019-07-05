@@ -1,56 +1,42 @@
-[20:39:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:39:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:39:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:39:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:39:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:39:44] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[20:39:44] [Server thread/INFO]: Loading properties
-[20:39:44] [Server thread/INFO]: Default game type: SURVIVAL
-[20:39:44] [Server thread/INFO]: Generating keypair
-[20:39:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:39:45] [Server thread/INFO]: Using epoll channel type
-[20:39:45] [Server thread/INFO]: Preparing level "World03"
-[20:39:45] [Server thread/INFO]: Reloading ResourceManager: Default, anti enderman grief v1.0.0.zip, coordinates hud v1.1.0.zip, customizable armor stands v2.4.0.zip, double shulker shells v1.0.3.zip, dragon drops elytra v1.0.2.zip, larger phantoms v1.0.0.zip, more mob heads v2.1.0.zip, multiplayer sleep v1.0.1.zip, nether portal coords v1.0.0.zip, player graves v1.5.0.zip, sethome v1.2.0.zip, silence mobs v1.0.0.zip, tag v2.0.0.zip
-[20:39:46] [Server thread/INFO]: Loaded 6 recipes
-[20:39:46] [Server thread/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
-[20:39:47] [Server thread/INFO]: Loaded 97 custom command functions
-[20:39:47] [Server thread/INFO]: Loaded 827 advancements
-[20:39:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:39:51] [Server thread/INFO]: Preparing spawn area: 0%
-[20:39:51] [Server thread/INFO]: Preparing spawn area: 0%
-[20:39:51] [Server thread/INFO]: Preparing spawn area: 0%
-[20:39:51] [Server thread/INFO]: Preparing spawn area: 0%
-[20:39:51] [Server thread/INFO]: Preparing spawn area: 0%
-[20:39:51] [Server thread/INFO]: Preparing spawn area: 0%
-[20:39:51] [Server thread/INFO]: Preparing spawn area: 0%
-[20:39:56] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[20:39:56] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[20:39:56] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[20:39:56] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[20:39:56] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[20:39:56] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[20:39:56] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[20:39:56] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[20:39:56] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[20:39:56] [Server thread/INFO]: Preparing spawn area: 4%
-[20:39:56] [Server thread/INFO]: Time elapsed: 8748 ms
-[20:39:56] [Server thread/INFO]: Done (11.706s)! For help, type "help"
-[21:20:50] [Server thread/INFO]: Unknown command
-[21:20:50] [Server thread/INFO]: /exot\<--[HERE]
-[21:21:00] [Server thread/INFO]: Unknown command
-[21:21:00] [Server thread/INFO]: /leave<--[HERE]
-[21:21:07] [Server thread/INFO]: Unknown command
-[21:21:07] [Server thread/INFO]: /top<--[HERE]
-[21:21:09] [Server thread/INFO]: Stopping the server
-[21:21:09] [Server thread/INFO]: Stopping server
-[21:21:09] [Server thread/INFO]: Saving players
-[21:21:09] [Server thread/INFO]: Saving worlds
-[21:21:09] [Server thread/INFO]: Saving chunks for level 'World03'/minecraft:the_end
-[21:21:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:21:09] [Server thread/INFO]: Saving chunks for level 'World03'/minecraft:overworld
-[21:21:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (World03): All chunks are saved
-[21:21:09] [Server thread/INFO]: Saving chunks for level 'World03'/minecraft:the_nether
-[21:21:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:21:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:21:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (World03): All chunks are saved
-[21:21:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:55:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:55:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:55:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:55:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:55:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:55:33] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[11:55:33] [Server thread/INFO]: Loading properties
+[11:55:33] [Server thread/INFO]: Default game type: SURVIVAL
+[11:55:33] [Server thread/INFO]: Generating keypair
+[11:55:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:55:34] [Server thread/INFO]: Using epoll channel type
+[11:55:34] [Server thread/INFO]: Preparing level "World03"
+[11:55:34] [Server thread/INFO]: Reloading ResourceManager: Default, anti enderman grief v1.0.0.zip, coordinates hud v1.1.0.zip, customizable armor stands v2.4.0.zip, double shulker shells v1.0.3.zip, dragon drops elytra v1.0.2.zip, larger phantoms v1.0.0.zip, more mob heads v2.1.0.zip, multiplayer sleep v1.0.1.zip, nether portal coords v1.0.0.zip, player graves v1.5.0.zip, sethome v1.2.0.zip, silence mobs v1.0.0.zip, tag v2.0.0.zip
+[11:55:35] [Server thread/INFO]: Loaded 6 recipes
+[11:55:35] [Server thread/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[11:55:36] [Server thread/INFO]: Loaded 97 custom command functions
+[11:55:36] [Server thread/INFO]: Loaded 827 advancements
+[11:55:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:55:48] [Server thread/INFO]: Preparing spawn area: 33%
+[11:55:48] [Server thread/INFO]: Time elapsed: 10882 ms
+[11:55:48] [Server thread/INFO]: Done (14.272s)! For help, type "help"
