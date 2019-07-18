@@ -1,11 +1,5 @@
 [
   {
-    "uuid": "c2cb3486-f23a-456f-b9de-64c555e0c3bd",
-    "name": "Guavachi",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "2bde7a01-fc05-4d79-b923-85148dc92bb1",
     "name": "RushaBourbon",
     "level": 4,
@@ -14,6 +8,12 @@
   {
     "uuid": "8155452d-08f6-4150-9693-7096018ee3e9",
     "name": "StrayNeko",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ff0aec71-9c1a-48a8-a957-c4048e844861",
+    "name": "KaeruchanJapan",
     "level": 4,
     "bypassesPlayerLimit": false
   }
