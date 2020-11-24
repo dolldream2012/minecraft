@@ -1,54 +1,16 @@
-[15:49:14] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:49:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:49:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:49:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:49:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:49:15] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[15:49:15] [Server thread/INFO]: Loading properties
-[15:49:15] [Server thread/INFO]: Default game type: SURVIVAL
-[15:49:15] [Server thread/INFO]: Generating keypair
-[15:49:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:49:15] [Server thread/INFO]: Using epoll channel type
-[15:49:15] [Server thread/INFO]: Preparing level "World03"
-[15:49:15] [Server thread/INFO]: Reloading ResourceManager: Default, anti enderman grief v1.0.0.zip, coordinates hud v1.1.0.zip, customizable armor stands v2.4.0.zip, double shulker shells v1.0.3.zip, dragon drops elytra v1.0.2.zip, larger phantoms v1.0.0.zip, more mob heads v2.1.0.zip, multiplayer sleep v1.0.1.zip, nether portal coords v1.0.0.zip, player graves v1.5.0.zip, sethome v1.2.0.zip, silence mobs v1.0.0.zip, tag v2.0.0.zip
-[15:49:16] [Server thread/INFO]: Loaded 6 recipes
-[15:49:16] [Server thread/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
-[15:49:17] [Server thread/INFO]: Loaded 97 custom command functions
-[15:49:18] [Server thread/INFO]: Loaded 827 advancements
-[15:49:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:49:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:49:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:49:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:49:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:49:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:49:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:49:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:49:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:49:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[15:49:29] [Server thread/INFO]: Preparing spawn area: 53%
-[15:49:29] [Server thread/INFO]: Time elapsed: 10278 ms
-[15:49:29] [Server thread/INFO]: Done (14.199s)! For help, type "help"
-[15:50:35] [Server thread/INFO]: Stopping the server
-[15:50:35] [Server thread/INFO]: Stopping server
-[15:50:35] [Server thread/INFO]: Saving players
-[15:50:35] [Server thread/INFO]: Saving worlds
-[15:50:35] [Server thread/INFO]: Saving chunks for level 'World03'/minecraft:the_nether
-[15:50:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:50:35] [Server thread/INFO]: Saving chunks for level 'World03'/minecraft:overworld
-[15:50:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (World03): All chunks are saved
-[15:50:36] [Server thread/INFO]: Saving chunks for level 'World03'/minecraft:the_end
-[15:50:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:50:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:50:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (World03): All chunks are saved
-[15:50:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:53] [Server thread/INFO]: StrayNeko lost connection: Disconnected
+[00:04:53] [Server thread/INFO]: StrayNeko left the game
+[00:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[00:58:51] [Server thread/INFO]: Stopping the server
+[00:58:51] [Server thread/INFO]: Stopping server
+[00:58:51] [Server thread/INFO]: Saving players
+[00:58:51] [Server thread/INFO]: Saving worlds
+[00:58:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[World04]'/minecraft:overworld
+[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (World04): All chunks are saved
+[00:58:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[World04]'/minecraft:the_nether
+[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:58:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[World04]'/minecraft:the_end
+[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (World04): All chunks are saved
+[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
