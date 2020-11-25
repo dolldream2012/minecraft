@@ -29,6 +29,9 @@ if [ $ME == $USERNAME ] ; then
       echo "Stopped minecraft_server"
       echo "Full Backup start ..."
       tar cfvz $BK_NAME $MC_PATH
+      git add $MC_PATH
+      git commit -m "update $BK_TIME"
+      git push origin master
       sleep 10
       echo "Full Backup compleate!"
       find $BK_PATH -name "mc_backup_full*.tar.gz" -type f -mtime +$BK_GEN -exec rm {} \;
