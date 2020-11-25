@@ -1,16 +1,28 @@
-[00:04:53] [Server thread/INFO]: StrayNeko lost connection: Disconnected
-[00:04:53] [Server thread/INFO]: StrayNeko left the game
-[00:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
-[00:58:51] [Server thread/INFO]: Stopping the server
-[00:58:51] [Server thread/INFO]: Stopping server
-[00:58:51] [Server thread/INFO]: Saving players
-[00:58:51] [Server thread/INFO]: Saving worlds
-[00:58:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[World04]'/minecraft:overworld
-[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (World04): All chunks are saved
-[00:58:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[World04]'/minecraft:the_nether
-[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:58:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[World04]'/minecraft:the_end
-[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (World04): All chunks are saved
-[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:58:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:30:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:30:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:30:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:30:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:30:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:30:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:30:46] [main/INFO]: Reloading ResourceManager: Default, afk display v1.1.0.zip, anti enderman grief v1.1.0.zip, armor statues v2.8.1.zip, coordinates hud v1.2.0.zip, double shulker shells v1.3.0.zip, dragon drops v1.3.0.zip, durability ping v1.1.0.zip, fast leaf decay v2.0.3.zip, larger phantoms v1.2.1.zip, more mob heads v2.8.1.zip, multiplayer sleep v2.5.2.zip, nether portal coords v1.1.0.zip, player head drops v1.1.0.zip, silence mobs v1.1.0.zip, spectator conduit power v1.1.0.zip, spectator night vision v1.1.0.zip, villager death messages v1.2.1.zip, wandering trades v1.4.0.zip
+[10:30:48] [Worker-Main-5/INFO]: Loaded 7 recipes
+[10:30:49] [Worker-Main-5/WARN]: Found validation problem in {minecraft:entities/villager}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/villager/villager_head
+[10:30:49] [Worker-Main-5/INFO]: Loaded 1015 advancements
+[10:30:50] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[10:30:50] [Server thread/INFO]: Loading properties
+[10:30:50] [Server thread/INFO]: Default game type: SURVIVAL
+[10:30:50] [Server thread/INFO]: Generating keypair
+[10:30:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:30:51] [Server thread/INFO]: Using epoll channel type
+[10:30:51] [Server thread/INFO]: Preparing level "World04"
+[10:30:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:30:53] [Server thread/INFO]: Preparing spawn area: 0%
+[10:30:53] [Server thread/INFO]: Preparing spawn area: 0%
+[10:30:53] [Server thread/INFO]: Preparing spawn area: 0%
+[10:30:53] [Server thread/INFO]: Preparing spawn area: 0%
+[10:30:53] [Server thread/INFO]: Preparing spawn area: 0%
+[10:30:54] [Server thread/INFO]: Preparing spawn area: 0%
+[10:30:55] [Server thread/INFO]: Preparing spawn area: 41%
+[10:30:55] [Server thread/INFO]: Preparing spawn area: 41%
+[10:30:56] [Server thread/INFO]: Time elapsed: 4477 ms
+[10:30:56] [Server thread/INFO]: Done (4.657s)! For help, type "help"
